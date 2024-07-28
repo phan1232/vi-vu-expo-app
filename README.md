@@ -4,7 +4,7 @@
 
 ## App Introduction
 
-https://drive.google.com/file/d/1As6Po9MXR3TpIluslgHHEMlYNeOOQP10/view
+
 
 ## Table of Contents
 
