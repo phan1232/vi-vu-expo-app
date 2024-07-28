@@ -65,7 +65,7 @@ const Login = (props: Props) => {
       <VStack flex={1} justifyContent={"center"} space={4}>
         <Center>
           <Image
-            source={require("../../../assets/LOGO.png")}
+            source={require("../../../assets/logo.png")}
             style={{
               width: screenWidth * 0.6,
               height: screenWidth * 0.6,
@@ -77,7 +77,7 @@ const Login = (props: Props) => {
         </Center>
         <InputLabel
           label="Số điện thoại"
-          placeholder="Nhập số điện thoại/Email"
+          placeholder="Nhập số điện thoại"
           value={phone}
           onChangeText={setPhone}
         />

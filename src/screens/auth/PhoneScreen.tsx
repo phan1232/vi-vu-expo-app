@@ -26,7 +26,7 @@ const PhoneScreen = (props: Props) => {
             </Center>
             <InputLabel
               label="Số điện thoại"
-              placeholder="Nhập số điện thoại/Email"
+              placeholder="Nhập số điện thoại"
             />
           </Box>
           <Box pb={8}>

@@ -76,7 +76,7 @@ const SignUp = (props: Props) => {
       <VStack flex={1} justifyContent={"center"} space={4}>
         <InputLabel
           label="Số điện thoại"
-          placeholder="Nhập số điện thoại/Email"
+          placeholder="Nhập số điện thoại"
           value={formData.phone}
           onChangeText={onInputChange("phone", setFormData, formData)}
         />
